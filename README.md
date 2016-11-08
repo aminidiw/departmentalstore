@@ -1,1 +1,1 @@
-# departmentalstore
+# departmentalstore contains everything
